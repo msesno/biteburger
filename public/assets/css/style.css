@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(243, 232, 177);
+    font-family: 'Lato', sans-serif;
+}
+
+pre {
+    background-color: rgb(211, 247, 241);
+    font-size: 1.5em;
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
+    padding-right: 100px;
+}
+
+img {
+    width: 15%;
+    margin-top: 20px;
+}
+
+h1 {
+    font-family: 'Stylish';
+}
+
+h2 {
+    font-family: 'Stylish';
+}
+
+.form-control[readonly] {
+    color: black;
+    margin: 5px;
+    border: 20px;
+    font-size: 1.5em;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title {
+    font-size: 40px;
+}
